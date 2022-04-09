@@ -1,9 +1,7 @@
 import numpy as np
 import pandas as pd
-import matplotlib.pyplot as plt
 from scipy.optimize import minimize
 from itertools import product
-from sklearn.model_selection import train_test_split
 
 
 def image_construction(image_vect, mode='rgb'):
