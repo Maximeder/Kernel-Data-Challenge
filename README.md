@@ -1,2 +1,2 @@
-# MVA
-Kernel Data Challenge
+# MVA - Kernel Data Challenge
+Image classification with kernel methods
